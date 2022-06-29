@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FServer", "FServer\FServer.csproj", "{6B2070D3-593A-4030-A75D-DE5417F20269}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ToastIO", "..\..\ToastIO\ToastIO\ToastIO.csproj", "{83C98049-DC7D-4CD4-A72A-16FBCC3D4A30}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B2070D3-593A-4030-A75D-DE5417F20269}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B2070D3-593A-4030-A75D-DE5417F20269}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B2070D3-593A-4030-A75D-DE5417F20269}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B2070D3-593A-4030-A75D-DE5417F20269}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83C98049-DC7D-4CD4-A72A-16FBCC3D4A30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83C98049-DC7D-4CD4-A72A-16FBCC3D4A30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83C98049-DC7D-4CD4-A72A-16FBCC3D4A30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83C98049-DC7D-4CD4-A72A-16FBCC3D4A30}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6666B6E7-F845-49EB-B90A-31448309614E}
+	EndGlobalSection
+EndGlobal
